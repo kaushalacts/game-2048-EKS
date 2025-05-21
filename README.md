@@ -4,6 +4,7 @@ AWS EKS Project 🚀
 This repository is a comprehensive guide and hands-on setup for deploying applications using Amazon Elastic Kubernetes Service (EKS). It covers the complete lifecycle—from understanding Kubernetes fundamentals to launching an EKS cluster and deploying applications securely and efficiently.
 
 📚 Table of Contents
+
 Kubernetes Fundamentals
 
 Comparison: EKS vs. Self-Managed Kubernetes
@@ -29,6 +30,8 @@ Docker & Kubernetes YAMLs
 End-to-End Deployment on EKS
 
 🛠️ Key Features
+
+
 Detailed comparison between EKS and Self-Managed Kubernetes.
 
 Step-by-step guide to setting up networking, IAM roles, security groups, and internet access.
@@ -38,6 +41,8 @@ Full walkthrough on installing and configuring AWS CLI, kubectl, and launching a
 Real-world deployment of containerized applications on EKS.
 
 📌 Technologies Used
+
+
 Amazon EKS
 
 Kubernetes
@@ -50,7 +55,10 @@ kubectl
 
 Docker
 
+
 ✅ Prerequisites
+
+
 AWS Account
 
 IAM User with admin permissions
