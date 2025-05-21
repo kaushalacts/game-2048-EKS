@@ -1,4 +1,6 @@
-AWS EKS Project 🚀
+AWS EKS Project 🚀       
+
+
 This repository is a comprehensive guide and hands-on setup for deploying applications using Amazon Elastic Kubernetes Service (EKS). It covers the complete lifecycle—from understanding Kubernetes fundamentals to launching an EKS cluster and deploying applications securely and efficiently.
 
 📚 Table of Contents
